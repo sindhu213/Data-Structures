@@ -1,4 +1,4 @@
-# C++ Data Structures Implementations
+# Implementations of Data Structures in C++
 
 This repository contains C++ implementations of various fundamental and advanced data structures.
 
