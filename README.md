@@ -18,7 +18,8 @@ Here's the list of currently implemented data structures:
      - [Doubly ended queue (deque)](https://github.com/sindhu213/Data-Structures/blob/main/Queue/DoubleEndedQueue.cpp)
  
 - **Trees**
-     - [Binary Search Trees](https://github.com/sindhu213/Data-Structures/blob/main/Trees/BinarySearchTrees.cpp)
+     - [Binary Search Tree](https://github.com/sindhu213/Data-Structures/blob/main/Trees/BinarySearchTrees.cpp)
+     - [AVL Tree](https://github.com/sindhu213/Data-Structures/blob/main/Trees/AVL.cpp)
 
 ## Contributing
 Contributions to this repository are welcome! If you find any issues or have any suggestions for improvements, please open an issue or submit a pull request.
