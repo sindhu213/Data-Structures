@@ -20,6 +20,10 @@ Here's the list of currently implemented data structures:
 - **Trees**
      - [Binary Search Tree](https://github.com/sindhu213/Data-Structures/blob/main/Trees/BinarySearchTree.cpp)
      - [AVL Tree](https://github.com/sindhu213/Data-Structures/blob/main/Trees/AVL.cpp)
+ 
+- **Graphs**
+     - [Adjacency Matrix](https://github.com/sindhu213/Data-Structures/blob/main/Graphs/AdjacencyMatrix.cpp)
+     - [Adjacency List](https://github.com/sindhu213/Data-Structures/blob/main/Graphs/AdjacencyList.cpp)
 
 ## Contributing
 Contributions to this repository are welcome! If you find any issues or have any suggestions for improvements, please open an issue or submit a pull request.
